@@ -1,1 +1,3 @@
-#ler
+## DeliveryAppRestauranteIonic
+
+- Aplicação do Restaurante.
